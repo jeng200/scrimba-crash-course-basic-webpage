@@ -1,0 +1,31 @@
+body {
+  background-color: rgb(168, 219, 219);
+  color: rgb(3, 52, 95);
+}
+
+img {
+  width: 300px;
+  margin: 10px;
+  padding: 10px;
+  border-bottom: dotted darkmagenta 5px;
+}
+
+/* Use CTRL / for a shortcut to leave a comment */
+
+.intro {
+  margin 0 auto;
+}
+
+.myskills {
+  background-color:rgb(3, 52, 95)
+  color:rgb(168, 219, 219);
+}
+
+.columns {
+  width: 750px;
+  display: flex;
+}
+
+.column {
+  border: 2px solid green;
+}
